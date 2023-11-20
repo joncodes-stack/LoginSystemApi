@@ -1,0 +1,12 @@
+D:\Source\GitHub\Projetos Pessoais\LoginSystemApi\src\login-system-api\JwtStore.core\bin\Debug\net8.0\JwtStore.core.deps.json
+D:\Source\GitHub\Projetos Pessoais\LoginSystemApi\src\login-system-api\JwtStore.core\bin\Debug\net8.0\JwtStore.core.dll
+D:\Source\GitHub\Projetos Pessoais\LoginSystemApi\src\login-system-api\JwtStore.core\bin\Debug\net8.0\JwtStore.core.pdb
+D:\Source\GitHub\Projetos Pessoais\LoginSystemApi\src\login-system-api\JwtStore.core\obj\Debug\net8.0\JwtStore.core.GeneratedMSBuildEditorConfig.editorconfig
+D:\Source\GitHub\Projetos Pessoais\LoginSystemApi\src\login-system-api\JwtStore.core\obj\Debug\net8.0\JwtStore.core.AssemblyInfoInputs.cache
+D:\Source\GitHub\Projetos Pessoais\LoginSystemApi\src\login-system-api\JwtStore.core\obj\Debug\net8.0\JwtStore.core.AssemblyInfo.cs
+D:\Source\GitHub\Projetos Pessoais\LoginSystemApi\src\login-system-api\JwtStore.core\obj\Debug\net8.0\JwtStore.core.csproj.CoreCompileInputs.cache
+D:\Source\GitHub\Projetos Pessoais\LoginSystemApi\src\login-system-api\JwtStore.core\obj\Debug\net8.0\JwtStore.core.sourcelink.json
+D:\Source\GitHub\Projetos Pessoais\LoginSystemApi\src\login-system-api\JwtStore.core\obj\Debug\net8.0\JwtStore.core.dll
+D:\Source\GitHub\Projetos Pessoais\LoginSystemApi\src\login-system-api\JwtStore.core\obj\Debug\net8.0\refint\JwtStore.core.dll
+D:\Source\GitHub\Projetos Pessoais\LoginSystemApi\src\login-system-api\JwtStore.core\obj\Debug\net8.0\JwtStore.core.pdb
+D:\Source\GitHub\Projetos Pessoais\LoginSystemApi\src\login-system-api\JwtStore.core\obj\Debug\net8.0\ref\JwtStore.core.dll

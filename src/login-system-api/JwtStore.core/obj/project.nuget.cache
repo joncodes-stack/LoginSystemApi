@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "IklbyiW/xZNk6j9nvObHcy0EooLokkMkCeV4O+4rsC3oZY+CZGi3cfmaicfvbon7BFdgWYqJ4MiDM2TH2MtaSA==",
+  "dgSpecHash": "a35bC1L52wzUpIqUTqBwA0Wwg4bo/bTsGZ+7t/gfJGDH97zVa89Kv/+Hl+41JlWwlUXnXMjaFMxoE2e3Sqm3bw==",
   "success": true,
   "projectFilePath": "D:\\Source\\GitHub\\Projetos Pessoais\\LoginSystemApi\\src\\login-system-api\\JwtStore.core\\JwtStore.core.csproj",
   "expectedPackageFiles": [],

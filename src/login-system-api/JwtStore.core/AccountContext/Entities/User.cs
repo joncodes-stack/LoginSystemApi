@@ -1,4 +1,5 @@
-﻿using JwtStore.core.SharedContext.Entities;
+﻿using JwtStore.core.AccountContext.ValueObjects;
+using JwtStore.core.SharedContext.Entities;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -9,6 +10,7 @@ namespace JwtStore.core.AccountContext.Entities
 {
     public class User : Entity
     {
-        public string Email { get; set; }
+        public string Name { get; set; }
+        public Email Email { get; private set; }
     }
 }
